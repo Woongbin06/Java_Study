@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="908a9a8a-8ef8-46b6-b0d1-a40fdfb9dd4a" name="Changes" comment="" />
+    <list default="true" id="73676c58-9fd3-4e6c-8697-d541234ed7ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20220706/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20220706/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20220706/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20220706/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20220706/20220706.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20220706/out/production/test/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20220706/out/production/test/Boolean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20220706/out/production/test/Variable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20220706/src/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20220706/src/Boolean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20220706/src/Variable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/20220706/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/20220706/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/20220706/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/20220706/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/20220706/20220706.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Boolean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Variable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/test/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2BV3cdWhY1yUpVD1XUnLPjaS2tW" />
+  <component name="ProjectId" id="2Bax0s4YLgWkBRdNgvkHSdfFqNf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/Java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
   }
-}</component>
-  <component name="RunManager" selected="애플리케이션.Variable">
-    <configuration name="Boolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Boolean" />
-      <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variable" />
-      <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="애플리케이션.Variable" />
-        <item itemvalue="애플리케이션.Boolean" />
-      </list>
-    </recent_temporary>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="908a9a8a-8ef8-46b6-b0d1-a40fdfb9dd4a" name="Changes" comment="" />
-      <created>1656977507457</created>
+      <changelist id="73676c58-9fd3-4e6c-8697-d541234ed7ed" name="Changes" comment="" />
+      <created>1657157780400</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1656977507457</updated>
-      <workItem from="1656977509453" duration="64000" />
-      <workItem from="1657111883079" duration="288000" />
+      <updated>1657157780400</updated>
+      <workItem from="1657157780401" duration="217000" />
     </task>
     <servers />
   </component>
