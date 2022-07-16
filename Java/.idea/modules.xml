@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/20220706/20220706.iml" filepath="$PROJECT_DIR$/20220706/20220706.iml" />
       <module fileurl="file://$PROJECT_DIR$/20220707/20220707.iml" filepath="$PROJECT_DIR$/20220707/20220707.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backjoon/Backjoon.iml" filepath="$PROJECT_DIR$/Backjoon/Backjoon.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>
