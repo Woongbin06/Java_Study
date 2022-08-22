@@ -1,45 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="73676c58-9fd3-4e6c-8697-d541234ed7ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J_20220822/src/InitailValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20220706/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20220706/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20220706/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20220706/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20220706/20220706.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20220706/out/production/test/Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20220706/out/production/test/Boolean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20220706/out/production/test/Variable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20220706/src/Array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20220706/src/Boolean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20220706/src/Variable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/20220706/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/20220706/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/20220706/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/20220706/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/20220706/20220706.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Boolean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Variable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/20220706/20220706.iml" beforeDir="false" afterPath="$PROJECT_DIR$/20220706/20220706.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/20220706/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/20220706/src/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/20220706/src/Boolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/20220706/src/Boolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/20220706/src/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/20220706/src/Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/20220707/20220707.iml" beforeDir="false" afterPath="$PROJECT_DIR$/20220707/20220707.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/20220707/src/Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/20220707/src/Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/20220707/src/Method_output.java" beforeDir="false" afterPath="$PROJECT_DIR$/20220707/src/Method_output.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Backjoon/Backjoon.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/20220706/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/20220706/Boolean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/20220706/Variable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/20220707/Method.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Bax0s4YLgWkBRdNgvkHSdfFqNf" />
   <component name="ProjectViewState">
@@ -50,9 +58,66 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "C:/Users/user/Desktop/Java_Study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\Java_Study" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ModificationOfStringData">
+    <configuration name="ArgumentOfMainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArgumentOfMainMethod" />
+      <module name="J_20220822" />
+      <option name="PROGRAM_PARAMETERS" value="abc 13 123 a" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InitailValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InitailValue" />
+      <module name="J_20220822" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModificationOfStringData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ModificationOfStringData" />
+      <module name="J_20220822" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimaryAndReferenceType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimaryAndReferenceType" />
+      <module name="J_20220822" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ModificationOfStringData" />
+      <item itemvalue="Application.ArgumentOfMainMethod" />
+      <item itemvalue="Application.InitailValue" />
+      <item itemvalue="Application.PrimaryAndReferenceType" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ModificationOfStringData" />
+        <item itemvalue="Application.ArgumentOfMainMethod" />
+        <item itemvalue="Application.PrimaryAndReferenceType" />
+        <item itemvalue="Application.InitailValue" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,10 +127,22 @@
       <option name="presentableId" value="Default" />
       <updated>1657157780400</updated>
       <workItem from="1657157780401" duration="217000" />
+      <workItem from="1661156663011" duration="6571000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
